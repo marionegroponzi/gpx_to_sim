@@ -7,3 +7,4 @@ isim/
 gpxpy
 bin/
 __pycache__
+**/.DS_Store
