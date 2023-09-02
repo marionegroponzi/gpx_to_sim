@@ -14,8 +14,5 @@ Configure the Python interpreter in intelliJ (with Python CE plugin) by selectin
 ### ref. [how to create deployable packages](https://www.infoworld.com/article/3656628/6-ways-to-package-python-apps-for-re-use.html)
 
 ## Create standalone package with zipapp
-- `cd utilities`
-- `python -m pip install -r gpx_to_sim/requirements.txt --target gpx_to_sim`
-- remove unneeded folders
-- `python -m zipapp -p python gpx_to_sim`
+See package
 
