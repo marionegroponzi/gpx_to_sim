@@ -1,5 +1,5 @@
 ## Overview
-This app opens the iPhone Simulator, reads a gpx file passed in as parameter 'file' and inject the waypoints to the simulator with a walking speed.
+This app opens the iPhone Simulator, reads a gpx file passed in as parameter 'file' and injects the waypoints in the simulator with a walking speed.
 It contains a package.sh script to generate a pyz 'executable'.
 
 ## On a fresh clone
