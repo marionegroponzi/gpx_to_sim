@@ -28,7 +28,7 @@ def gpx_to_sim(file):
     # print(booted_device.is_available)
 
     # params = ["xcrun", "simctl", "location", f"{booted_device.udid}", "start", "--speed", "10"]
-    params = ["xcrun", "simctl", "location", "booted", "start", "--speed", "10"]
+    params = ["xcrun", "simctl", "location", "booted", "start", "--speed", "6"]
     for track in gpx.tracks:
         for segment in track.segments:
             for point in segment.points:
